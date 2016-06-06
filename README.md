@@ -13,5 +13,6 @@ Steps for Application Initiation
 3. Open the browser and start the application.
 
 Issues
-Feel free to submit issues and enhancement requests.
+
+1. Feel free to submit issues and enhancement requests.
 
