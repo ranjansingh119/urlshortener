@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Urlshortener
 
 Link Shortening Application to convert large Urls into small Urls and make them convenient to use.
@@ -12,3 +13,6 @@ Steps for Application Initiation
 
 Issues
 Feel free to submit issues and enhancement requests.
+=======
+
+>>>>>>> origin/master
